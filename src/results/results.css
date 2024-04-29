@@ -1,0 +1,42 @@
+.results-container {
+    background-color: #222; 
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4); 
+    margin-top: 20px;
+    border: 2px solid #900; 
+  }
+  
+  .results-container h2 {
+    color: #900; 
+    margin-bottom: 15px;
+    text-align: center; 
+    font-size: 24px; 
+  }
+  
+  .results-container ol {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+  }
+  
+  .results-container li {
+    background-color: #333; 
+    color: #ccc; 
+    padding: 10px 15px;
+    border-radius: 8px;
+    margin-bottom: 8px;
+    border-left: 5px solid #900;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between; 
+  }
+  
+  .results-container li:last-child {
+    margin-bottom: 0;
+  }
+  
+  .results-container li span {
+    font-weight: bold; 
+  }
+  

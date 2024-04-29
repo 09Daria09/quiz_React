@@ -1,0 +1,206 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "questionText": "Столица Франции?",
+        "answerOptions": [
+          { "answerText": "Мадрид", "isCorrect": false },
+          { "answerText": "Берлин", "isCorrect": false },
+          { "answerText": "Париж", "isCorrect": true },
+          { "answerText": "Лондон", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 2,
+        "questionText": "Какие языки являются официальными в Индии?",
+        "answerOptions": [
+          { "answerText": "Хинди", "isCorrect": true },
+          { "answerText": "Бенгальский", "isCorrect": false },
+          { "answerText": "Английский", "isCorrect": true },
+          { "answerText": "Телугу", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 3,
+        "questionText": "Столица Казахстана?",
+        "answerOptions": [
+          { "answerText": "Алматы", "isCorrect": false },
+          { "answerText": "Астана", "isCorrect": true },
+          { "answerText": "Шымкент", "isCorrect": false },
+          { "answerText": "Караганда", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 4,
+        "questionText": "Какие страны находятся в Южной Америке?",
+        "answerOptions": [
+          { "answerText": "Бразилия", "isCorrect": true },
+          { "answerText": "Колумбия", "isCorrect": true },
+          { "answerText": "Мексика", "isCorrect": false },
+          { "answerText": "Чили", "isCorrect": true }
+        ]
+      },
+      {
+        "id": 5,
+        "questionText": "Столица Китая?",
+        "answerOptions": [
+          { "answerText": "Шанхай", "isCorrect": false },
+          { "answerText": "Гуанчжоу", "isCorrect": false },
+          { "answerText": "Хонгконг", "isCorrect": false },
+          { "answerText": "Пекин", "isCorrect": true }
+        ]
+      },
+      {
+        "id": 6,
+        "questionText": "Столица Японии?",
+        "answerOptions": [
+            { "answerText": "Токио", "isCorrect": true },
+          { "answerText": "Осака", "isCorrect": false },
+          { "answerText": "Киото", "isCorrect": false },
+          { "answerText": "Йокогама", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 7,
+        "questionText": "Столица Турции?",
+        "answerOptions": [
+          { "answerText": "Измир", "isCorrect": false },
+          { "answerText": "Стамбул", "isCorrect": false },
+          { "answerText": "Анкара", "isCorrect": true },
+          { "answerText": "Анталья", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 8,
+        "questionText": "Столица Индии?",
+        "answerOptions": [
+          { "answerText": "Мумбаи", "isCorrect": false },
+          { "answerText": "Дели", "isCorrect": true },
+          { "answerText": "Бангалор", "isCorrect": false },
+          { "answerText": "Калькутта", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 9,
+        "questionText": "Столица Ирана?",
+        "answerOptions": [
+          { "answerText": "Тегеран", "isCorrect": true },
+          { "answerText": "Шираз", "isCorrect": false },
+          { "answerText": "Мешхед", "isCorrect": false },
+          { "answerText": "Исфахан", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 10,
+        "questionText": "Столица Монголии?",
+        "answerOptions": [
+          { "answerText": "Улан-Батор", "isCorrect": true },
+          { "answerText": "Дархан", "isCorrect": false },
+          { "answerText": "Эрдэнэт", "isCorrect": false },
+          { "answerText": "Ховд", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 11,
+        "questionText": "Столица Южной Кореи?",
+        "answerOptions": [
+          { "answerText": "Инчхон", "isCorrect": false },
+          { "answerText": "Сеул", "isCorrect": true },
+          { "answerText": "Бусан", "isCorrect": false },
+          { "answerText": "Дэгу", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 12,
+        "questionText": "Какие страны являются членами Европейского Союза?",
+        "answerOptions": [
+          { "answerText": "Норвегия", "isCorrect": false },
+          { "answerText": "Франция", "isCorrect": true },
+          { "answerText": "Швейцария", "isCorrect": false },
+          { "answerText": "Германия", "isCorrect": true }
+        ]
+      },
+      {
+        "id": 13,
+        "questionText": "Какие страны граничат с Германией?",
+        "answerOptions": [
+          { "answerText": "Франция", "isCorrect": true },
+          { "answerText": "Польша", "isCorrect": true },
+          { "answerText": "Швейцария", "isCorrect": true },
+          { "answerText": "Португалия", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 14,
+        "questionText": "Столица Вьетнама?",
+        "answerOptions": [
+          { "answerText": "Хошимин", "isCorrect": false },
+          { "answerText": "Ханой", "isCorrect": true },
+          { "answerText": "Дананг", "isCorrect": false },
+          { "answerText": "Нячанг", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 15,
+        "questionText": "Столица Непала?",
+        "answerOptions": [
+            { "answerText": "Катманду", "isCorrect": true },
+          { "answerText": "Покхара", "isCorrect": false },
+          { "answerText": "Лалитпур", "isCorrect": false },
+          { "answerText": "Бхактапур", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 16,
+        "questionText": "Столица Пакистана?",
+        "answerOptions": [
+          { "answerText": "Лахор", "isCorrect": false },
+          { "answerText": "Карачи", "isCorrect": false },
+          { "answerText": "Исламабад", "isCorrect": true },
+          { "answerText": "Фейсалабад", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 17,
+        "questionText": "Столица Азербайджана?",
+        "answerOptions": [
+            { "answerText": "Баку", "isCorrect": true },
+          { "answerText": "Гянджа", "isCorrect": false },
+          { "answerText": "Сумгаит", "isCorrect": false },
+          { "answerText": "Шуша", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 18,
+        "questionText": "Столица Грузии?",
+        "answerOptions": [
+          { "answerText": "Батуми", "isCorrect": false },
+          { "answerText": "Кутаиси", "isCorrect": false },
+          { "answerText": "Рустави", "isCorrect": false },
+          { "answerText": "Тбилиси", "isCorrect": true }
+        ]
+      },
+      {
+        "id": 19,
+        "questionText": "Столица Украины?",
+        "answerOptions": [
+            { "answerText": "Харьков", "isCorrect": false },
+            { "answerText": "Одесса", "isCorrect": false },
+            { "answerText": "Киев", "isCorrect": true },
+          { "answerText": "Львов", "isCorrect": false }
+        ]
+      },
+      {
+        "id": 20,
+        "questionText": "Какие страны имеют выход к Средиземному морю?",
+        "answerOptions": [
+          { "answerText": "Египет", "isCorrect": true },
+          { "answerText": "Иордания", "isCorrect": false },
+          { "answerText": "Италия", "isCorrect": true },
+          { "answerText": "Ирак", "isCorrect": false }
+        ]
+      }
+
+    ]
+  }
+  
